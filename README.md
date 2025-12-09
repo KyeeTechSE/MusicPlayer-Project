@@ -17,8 +17,8 @@ Dibuat untuk memberikan pengalaman mendengarkan musik yang sederhana, ringan, da
 
 ---
 
-## 🖥️ Preview (Screenshot)
-> *Tambahkan screenshot project di sini setelah upload ke GitHub.*
+## 🖥️ Preview
+> *None*
 
 
 ---
